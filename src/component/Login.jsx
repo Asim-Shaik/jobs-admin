@@ -21,9 +21,9 @@ const Login = () => {
 
   return (
     <div>
-      <div className="flex items-center min-h-screen p-4 bg-gray-100 lg:justify-center">
-        <div className="flex flex-col overflow-hidden bg-white rounded-md shadow-lg max md:flex-row md:flex-1 lg:max-w-screen-md">
-          <div className="p-5 bg-white md:flex-1">
+      <div className="flex items-center min-h-screen p-4 bg-gray-100 lg:justify-center ">
+        <div className="flex flex-col overflow-hidden  bg-white rounded-md shadow-lg max md:flex-row md:flex-1 lg:max-w-screen-md">
+          <div className="p-5 bg-white md:flex-1 mx-10 my-10 md:mx-0 md:my-0">
             <h3 className="my-4 text-2xl font-semibold text-gray-700">
               Account Login
             </h3>
